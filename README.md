@@ -1,1 +1,7 @@
-# speedrun-notes-chocobo-racing
+---
+title: Index
+author: AmenAnthem
+---
+
+# Routes
+- [Story Mode](routes/story-mode.md)
